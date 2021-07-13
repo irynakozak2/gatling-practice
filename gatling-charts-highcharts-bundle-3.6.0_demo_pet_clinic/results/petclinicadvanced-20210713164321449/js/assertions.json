@@ -1,0 +1,10 @@
+{
+  "simulation": "PetClinicAdvanced",
+  "simulationId": "petclinicadvanced",
+  "start": 1626194601449,
+  "description": "",
+  "scenarios": ["PetClinicAdvanced"],
+  "assertions": [
+
+  ]
+}

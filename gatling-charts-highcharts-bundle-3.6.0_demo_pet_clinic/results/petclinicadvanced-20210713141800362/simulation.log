@@ -1,0 +1,28 @@
+RUN	PetClinicAdvanced	petclinicadvanced	1626185880362	 	3.2.1
+USER	PetClinicAdvanced	1	START	1626185882204	1626185882204
+REQUEST	1		GET Open Home Page	1626185882284	1626185882306	KO	i.n.c.AbstractChannel$AnnotatedConnectException: Connection refused: localhost/127.0.0.1:8080
+REQUEST	1		GET Owners Page	1626185882341	1626185882344	KO	i.n.c.AbstractChannel$AnnotatedConnectException: Connection refused: localhost/127.0.0.1:8080
+REQUEST	1		GET Find Owners Page	1626185883338	1626185883340	KO	i.n.c.AbstractChannel$AnnotatedConnectException: Connection refused: localhost/127.0.0.1:8080
+REQUEST	1		POST Add Owner	1626185894346	1626185894347	KO	i.n.c.AbstractChannel$AnnotatedConnectException: Connection refused: localhost/127.0.0.1:8080
+REQUEST	1		GET Owners Page	1626185894348	1626185894349	KO	i.n.c.AbstractChannel$AnnotatedConnectException: Connection refused: localhost/127.0.0.1:8080
+REQUEST	1		request_5	1626185896357	1626185896358	KO	i.n.c.AbstractChannel$AnnotatedConnectException: Connection refused: localhost/127.0.0.1:8080
+REQUEST	1		request_6	1626185901356	1626185901358	KO	i.n.c.AbstractChannel$AnnotatedConnectException: Connection refused: localhost/127.0.0.1:8080
+REQUEST	1		request_7	1626185901360	1626185901361	KO	i.n.c.AbstractChannel$AnnotatedConnectException: Connection refused: localhost/127.0.0.1:8080
+REQUEST	1		request_8	1626185902356	1626185902358	KO	i.n.c.AbstractChannel$AnnotatedConnectException: Connection refused: localhost/127.0.0.1:8080
+REQUEST	1		request_9	1626185914369	1626185914371	KO	i.n.c.AbstractChannel$AnnotatedConnectException: Connection refused: localhost/127.0.0.1:8080
+REQUEST	1		request_10	1626185914372	1626185914373	KO	i.n.c.AbstractChannel$AnnotatedConnectException: Connection refused: localhost/127.0.0.1:8080
+REQUEST	1		request_11	1626185916366	1626185916367	KO	i.n.c.AbstractChannel$AnnotatedConnectException: Connection refused: localhost/127.0.0.1:8080
+REQUEST	1		request_12	1626185933366	1626185933367	KO	i.n.c.AbstractChannel$AnnotatedConnectException: Connection refused: localhost/127.0.0.1:8080
+REQUEST	1		request_13	1626185933369	1626185933371	KO	i.n.c.AbstractChannel$AnnotatedConnectException: Connection refused: localhost/127.0.0.1:8080
+REQUEST	1		request_14	1626185939366	1626185939367	KO	i.n.c.AbstractChannel$AnnotatedConnectException: Connection refused: localhost/127.0.0.1:8080
+REQUEST	1		request_15	1626185942386	1626185942387	KO	i.n.c.AbstractChannel$AnnotatedConnectException: Connection refused: localhost/127.0.0.1:8080
+REQUEST	1		request_16	1626185942390	1626185942391	KO	i.n.c.AbstractChannel$AnnotatedConnectException: Connection refused: localhost/127.0.0.1:8080
+REQUEST	1		request_17	1626185952386	1626185952389	KO	i.n.c.AbstractChannel$AnnotatedConnectException: Connection refused: localhost/127.0.0.1:8080
+REQUEST	1		request_18	1626185954395	1626185954396	KO	i.n.c.AbstractChannel$AnnotatedConnectException: Connection refused: localhost/127.0.0.1:8080
+REQUEST	1		request_19	1626185960398	1626185960400	KO	i.n.c.AbstractChannel$AnnotatedConnectException: Connection refused: localhost/127.0.0.1:8080
+REQUEST	1		request_20	1626185960402	1626185960403	KO	i.n.c.AbstractChannel$AnnotatedConnectException: Connection refused: localhost/127.0.0.1:8080
+REQUEST	1		request_21	1626185975397	1626185975398	KO	i.n.c.AbstractChannel$AnnotatedConnectException: Connection refused: localhost/127.0.0.1:8080
+REQUEST	1		request_22	1626185979398	1626185979399	KO	i.n.c.AbstractChannel$AnnotatedConnectException: Connection refused: localhost/127.0.0.1:8080
+REQUEST	1		request_23	1626185979401	1626185979402	KO	i.n.c.AbstractChannel$AnnotatedConnectException: Connection refused: localhost/127.0.0.1:8080
+REQUEST	1		request_24	1626185989408	1626185989409	KO	i.n.c.AbstractChannel$AnnotatedConnectException: Connection refused: localhost/127.0.0.1:8080
+USER	PetClinicAdvanced	1	END	1626185882204	1626185989420
